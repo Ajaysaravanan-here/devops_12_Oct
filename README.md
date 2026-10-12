@@ -1,3 +1,4 @@
 # devops_12_Oct
 in class task
-Harshal Manohar Tandel 100008484
+Harshal Manohar Tandel 100008484 
+lokesh ranga 100008311
